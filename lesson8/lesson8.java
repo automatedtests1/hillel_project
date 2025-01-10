@@ -36,5 +36,4 @@ public class lesson8.3 { lass Solution {
         System.out.println(solution.sumIgnoreSections(null)); // Виведе: 0 (перевірка null)
     }
 }
-    
 }
